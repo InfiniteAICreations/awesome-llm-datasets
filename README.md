@@ -25,3 +25,19 @@
 
 ## Coding Datasets
 - [Magicoder](https://github.com/ise-uiuc/magicoder)
+
+## Perplexity(PPL)
+- [WikiText2](https://huggingface.co/datasets/mindchain/wikitext2)
+- [PTB](https://physionet.org/content/ptbdb/1.0.0/)
+- [C4](https://huggingface.co/datasets/c4)
+
+## CommonSenseQA
+- [PIQA](https://huggingface.co/datasets/piqa)
+- [ARC-c](https://allenai.org/data/arc)
+- [ARC-e](https://leaderboard.allenai.org/arc_easy/submissions/get-started)
+- [HellaSwag](https://rowanzellers.com/hellaswag/)
+- [Winogrande](https://huggingface.co/datasets/winogrande)
+
+## MMLU
+- [Humanities](https://cdh.princeton.edu/research/resources/humanities-datasets/)
+- [STEM](https://huggingface.co/datasets/stemdataset/STEM)
