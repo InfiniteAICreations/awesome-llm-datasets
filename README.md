@@ -41,3 +41,6 @@
 ## MMLU
 - [Humanities](https://cdh.princeton.edu/research/resources/humanities-datasets/)
 - [STEM](https://huggingface.co/datasets/stemdataset/STEM)
+
+## Image
+- [ImageInWords](https://github.com/google/imageinwords): Unlocking Hyper-Detailed Image Descriptions
