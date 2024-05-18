@@ -55,3 +55,6 @@
 
 ## Cartoon Animation Dataset
 - [Sakuga-42M](https://github.com/zhenglinpan/SakugaDataset)
+
+## Web dataset
+- [MS MARCO Web Search](https://github.com/microsoft/ms-marco-web-search): A large-scale information-rich web dataset, featuring millions of real clicked query-document labels
