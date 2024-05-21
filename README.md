@@ -58,3 +58,8 @@
 
 ## Web dataset
 - [MS MARCO Web Search](https://github.com/microsoft/ms-marco-web-search): A large-scale information-rich web dataset, featuring millions of real clicked query-document labels
+
+## Conversational Datasets
+- [Buzz](https://huggingface.co/datasets/H-D-T/Buzz)
+- [WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M)
+- [lmsys-arena-human-preference-55k](https://huggingface.co/datasets/lmsys/lmsys-arena-human-preference-55k)
