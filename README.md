@@ -52,6 +52,7 @@
 ## Medical Science
 - [Mendeley digital knee X-ray images](https://data.mendeley.com/datasets/t9ndx37v5h/1)
 - [PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
+- [UltraMedical](https://github.com/tsinghuac3i/ultramedical): Building Specialized Generalists in Biomedicine.
 
 ## Cartoon Animation Dataset
 - [Sakuga-42M](https://github.com/zhenglinpan/SakugaDataset)
