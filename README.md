@@ -29,6 +29,7 @@
 
 ## Coding Datasets
 - [Magicoder](https://github.com/ise-uiuc/magicoder)
+- [Salesforce/xlam-function-calling-60k](https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k): APIGen Function-Calling Datasets
 
 ## Perplexity(PPL)
 - [WikiText2](https://huggingface.co/datasets/mindchain/wikitext2)
